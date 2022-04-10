@@ -1,8 +1,6 @@
 package uitest.uiTests;
 import org.junit.Before;
 import org.junit.Test;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.DisplayName;
 import uitest.BaseTest;
 import uitest.pageWidgets.MainWidget;
 import uitest.pageWidgets.OrderWidget;
